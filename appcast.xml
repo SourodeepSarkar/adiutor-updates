@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
 
 <channel>
 
@@ -8,18 +10,27 @@
 
 <item>
 
-<title>Version 1.0</title>
+<title>Adiutor 1.0.0</title>
 
-<sparkle:version>1</sparkle:version>
+<sparkle:version>100</sparkle:version>
+
+<sparkle:shortVersionString>
+1.0.0
+</sparkle:shortVersionString>
+
+<pubDate>
+Tue, 19 May 2026 10:00:00 +0000
+</pubDate>
 
 <enclosure
-url="https://github.com/USERNAME/adiutor/releases/download/v1.0/Adiutor.dmg"
-sparkle:version="1"
+url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.0.0/Adiutor.zip"
+length="3224023"
 type="application/octet-stream"
-length="12345678"
+sparkle:edSignature="NniocRi1LE+QvrAa+ve+L+qEmtKzUVJcxNj/+BE7KC/1vz+XqGalHYLgIIiC8ioiEPyBV5pnrxR4HalzeEehBg==" 
 />
 
 </item>
 
 </channel>
+
 </rss>
