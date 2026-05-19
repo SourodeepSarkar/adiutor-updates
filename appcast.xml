@@ -1,0 +1,25 @@
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+
+<title>Adiutor Updates</title>
+
+<item>
+
+<title>Version 1.0</title>
+
+<sparkle:version>1</sparkle:version>
+
+<enclosure
+url="https://github.com/USERNAME/adiutor/releases/download/v1.0/Adiutor.dmg"
+sparkle:version="1"
+type="application/octet-stream"
+length="12345678"
+/>
+
+</item>
+
+</channel>
+</rss>
