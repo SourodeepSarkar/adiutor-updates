@@ -1,36 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<rss version="2.0"
-xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-xmlns:dc="http://purl.org/dc/elements/1.1/">
-
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
-
-<title>Adiutor Updates</title>
-
+<title>Adiutor Update</title>
+<link>
+http://sparkle-project.org/files/sparkletestcast.xml
+</link>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
 <item>
+<title>Version 1.1.0</title>
+<link>https://sourodeepsarkar.github.io/adiutor-help/</link>
+<sparkle:version>1.1.0</sparkle:version>
+<description>
+<![CDATA[
+<h2>🚀 What's New in v1.1.0</h2>
 
-<title>Adiutor 1.0.0</title>
+<h3>‼️ Bug Fixes</h3>
+<ul>
+  <li>Fixed display going to sleep in Focus Mode: Squashed the pesky bugs preventing you from locking in</li>
+</ul>
 
-<sparkle:version>100</sparkle:version>
+<h3>✨ Changes & Improvements</h3>
+<ul>
+  <li>Updated session scheduling: Upgraded the panel for scheduling session reminders to make it more user-friendly, particularly for keyboard power-users.</li>
+</ul>
 
-<sparkle:shortVersionString>
-1.0.0
-</sparkle:shortVersionString>
+<hr>
 
-<pubDate>
-Tue, 19 May 2026 10:00:00 +0000
-</pubDate>
+<h3>Feedback</h3>
+<p>Feedback, bug reports, and suggestions are welcome through GitHub Issues.</p>
 
-<enclosure
-url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.0.0/Adiutor.zip"
-length="3224023"
-type="application/octet-stream"
-sparkle:edSignature="NniocRi1LE+QvrAa+ve+L+qEmtKzUVJcxNj/+BE7KC/1vz+XqGalHYLgIIiC8ioiEPyBV5pnrxR4HalzeEehBg==" 
+<hr>
+
+<p>Thank you for trying Adiutor.</p>
+]]>
+</description>
+<pubDate>Sat, 19 May 2026 17:54:11 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.1.0/Adiutor.zip" length="3230211" type="application/octet-stream" sparkle:edSignature="5LVyHxhOfZu6dm8nspCskZi/WEaDRqhjPTe5cRkIxqgIyyvHQqPXP6RtP9mDDVFYPS2XGm4w9qU8TOKsbBPgCg=="
 />
-
 </item>
-
 </channel>
-
 </rss>
