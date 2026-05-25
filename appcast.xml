@@ -7,22 +7,21 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
-<title>Version 1.2.0</title>
+<title>Version 1.2.1</title>
 <link>https://sourodeepsarkar.github.io/adiutor-help/</link>
-<sparkle:version>1.2.0</sparkle:version>
+<sparkle:version>1.2.1</sparkle:version>
 <description>
 <![CDATA[
-<h2>What's New in v1.2.0</h2>
+<h2>What's New in v1.2.1</h2>
 
 <h3>✨ Changes &amp; Improvements</h3>
 <ul>
-  <li>Added deeper website integration: Adiutor now connects directly with the website experience for a smoother workflow.</li>
-  <li>Improved analytics flow: The <strong>My Sessions</strong> tab in the menu bar provides quick access to the integrated analytics experience, with study statistics loaded automatically and ready to view.</li>
+  <li>Improved task flow: completed tasks in the To-Do card now move seamlessly to the bottom of the list for a cleaner, less distracting experience.</li>
 </ul>
 
 <h3>‼️ Bug Fixes</h3>
 <ul>
-  <li>Includes minor bug fixes, stability improvements, and resolutions for reported crash instances.</li>
+  <li>Includes minor bug fixes and stability improvements.</li>
 </ul>
 
 <hr>
@@ -35,9 +34,11 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <p>Thank you for trying Adiutor.</p>
 ]]>
 </description>
-<pubDate>Sat, 23 May 2026 09:41:00 +0530</pubDate>
-<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.2.0/Adiutor.v1.2.0.zip" length="3254365" type="application/octet-stream" sparkle:edSignature="XO5wQyZDf4q5melwxSsTpOluCPffdVyXKppNK9ObTXEcr8hs6wN8TiPTH239XhueCwr+Fx7OQB5M/dOKf23MCw=="
+<pubDate>Sat, 25 May 2026 20:11:00 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.2.1/Adiutor.v1.2.1.zip" length="3256226" type="application/octet-stream" sparkle:edSignature="HGHLQqHdPze2I4h4GCA0dR0wBPj8EPJHRgsqdL57s77PRi8sDcvV9JjQCI4+lbC/bMGzmw94S530BW2x4HD4Ag=="
 />
 </item>
 </channel>
 </rss>
+
+
