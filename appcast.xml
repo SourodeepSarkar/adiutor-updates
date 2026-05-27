@@ -7,21 +7,21 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
-<title>Version 1.2.1</title>
+<title>Version 1.3.0</title>
 <link>https://sourodeepsarkar.github.io/adiutor-help/</link>
-<sparkle:version>1.2.1</sparkle:version>
+<sparkle:version>1.3.0</sparkle:version>
 <description>
 <![CDATA[
-<h2>What's New in v1.2.1</h2>
+<h2>What's New in v1.3.0</h2>
 
 <h3>✨ Changes &amp; Improvements</h3>
 <ul>
-  <li>Improved task flow: completed tasks in the To-Do card now move seamlessly to the bottom of the list for a cleaner, less distracting experience.</li>
+  <li><strong>Introducing the all-new in-app Journal:</strong> Capture thoughts, reflections, and study notes directly within Adiutor. Your entries remain fully on-device, designed with privacy at the core and no external data exposure.</li>
 </ul>
 
 <h3>‼️ Bug Fixes</h3>
 <ul>
-  <li>Includes minor bug fixes and stability improvements.</li>
+  <li>Includes multiple bug fixes, stability enhancements, and under-the-hood improvements for a smoother experience.</li>
 </ul>
 
 <hr>
@@ -34,8 +34,8 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <p>Thank you for trying Adiutor.</p>
 ]]>
 </description>
-<pubDate>Sat, 25 May 2026 20:11:00 +0530</pubDate>
-<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.2.1/Adiutor.v1.2.1.zip" length="3256226" type="application/octet-stream" sparkle:edSignature="HGHLQqHdPze2I4h4GCA0dR0wBPj8EPJHRgsqdL57s77PRi8sDcvV9JjQCI4+lbC/bMGzmw94S530BW2x4HD4Ag=="
+<pubDate>Sat, 27 May 2026 12:49:00 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.3.0/Adiutor.v1.3.0.zip" length="3466491" type="application/octet-stream" sparkle:edSignature="ylpPIqJ3zkvXxxXD+5BPLSzBHcy+wTVaWqexCPOvyS4c4dxr1xar2lhpZ0tnuRXFPuf+A1lNT6FULiij9karAw=="
 />
 </item>
 </channel>
