@@ -53,7 +53,7 @@ http://sparkle-project.org/files/sparkletestcast.xml
 ]]>
 </description>
 <pubDate>Sat, 30 May 2026 20:01:00 +0530</pubDate>
-<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.4.0/Adiutor.v1.4.0.zip" length="3488592"" type="application/octet-stream" sparkle:edSignature="iXC+5ydkF6xjYPJ8CVK3HwWeCCu5LNNDJS1hI6Uw2QV2DXpyk33VEPx3uVAhFlB/d5MgzXN5ZGyvqBGqEzhhDw=="
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.4.0/Adiutor.v1.4.0.zip" length="3488592" type="application/octet-stream" sparkle:edSignature="iXC+5ydkF6xjYPJ8CVK3HwWeCCu5LNNDJS1hI6Uw2QV2DXpyk33VEPx3uVAhFlB/d5MgzXN5ZGyvqBGqEzhhDw=="
 />
 </item>
 </channel>
