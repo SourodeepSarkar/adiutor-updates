@@ -7,18 +7,39 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <description>Most recent changes with links to updates.</description>
 <language>en</language>
 <item>
-<title>Version 1.3.1</title>
+<title>Version 1.4.0</title>
 <link>https://sourodeepsarkar.github.io/adiutor-help/</link>
-<sparkle:version>1.3.1</sparkle:version>
+<sparkle:version>1.4.0</sparkle:version>
 <description>
 <![CDATA[
-<h2>What's New in v1.3.1</h2>
+<h2>What's New in v1.4.0</h2>
 
-<h3>Improvements & Fixes</h3>
+<h3>✨ Changes & Improvements</h3>
 <ul>
-  <li>Improved Journal responsiveness and scrolling behavior.</li>
-  <li>Refined interaction details and visual polish across the experience.</li>
-  <li>Fixed layout and stability issues for smoother everyday use.</li>
+  <li>
+    <strong>Distraction blocking, now built into Adiutor:</strong>
+    Enter deeper focus sessions by blocking distracting apps for up to 3 hours at a stretch. Choose exactly what to block, start instantly, and stay in control with the option to end sessions early whenever needed.
+  </li>
+
+  <li>
+    <strong>A more intentional focus workflow:</strong>
+    App blocking is designed to work alongside Focus Mode, helping you reduce context switching and maintain uninterrupted study momentum.
+  </li>
+
+  <li>
+    <strong>Refinements across the experience:</strong>
+    Includes stability improvements, UI polish, and under-the-hood enhancements for a smoother and more reliable workflow.
+  </li>
+</ul>
+
+<hr>
+
+<h3>‼️ Reliability & Stability Update</h3>
+<ul>
+  <li>
+    <strong>Recommended for all users:</strong>
+    This update includes important reliability improvements, workflow refinements, and stability enhancements across Adiutor to deliver a smoother, more dependable study experience. Updating is recommended to ensure the best overall performance and compatibility.
+  </li>
 </ul>
 
 <hr>
@@ -31,8 +52,8 @@ http://sparkle-project.org/files/sparkletestcast.xml
 <p>Thank you for trying Adiutor.</p>
 ]]>
 </description>
-<pubDate>Sat, 28 May 2026 14:47:00 +0530</pubDate>
-<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.3.1/Adiutor.v1.3.1.zip" length="3471968" type="application/octet-stream" sparkle:edSignature="1nGkfg2h2dwzatIq4fj5zxJ7boJACjv2WGf6qm+SBWnfcxu6Aaotgt7DJMOCY5fdFk7RSfZnkEYx1dTAMDzPAA=="
+<pubDate>Sat, 30 May 2026 20:01:00 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.4.0/Adiutor.v1.4.0.zip" length="3488592"" type="application/octet-stream" sparkle:edSignature="iXC+5ydkF6xjYPJ8CVK3HwWeCCu5LNNDJS1hI6Uw2QV2DXpyk33VEPx3uVAhFlB/d5MgzXN5ZGyvqBGqEzhhDw=="
 />
 </item>
 </channel>
